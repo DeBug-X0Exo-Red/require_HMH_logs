@@ -54,3 +54,38 @@ a tool with many uses having a built in executor for both server and client, a h
 password for script hub access > c00lkidds
 require(10868847330):pls("DeBug_UserName")
 ```
+# Dex Debugging suite
+a debugging suite with good tools to deep dive into games but the script viewer is buggy and most likely wont work 99% of the time
+```
+require(14572394952)("DeBug_UserName")
+```
+# NickName > Cloud Sky
+we were unable to find the true name of the script but it is a very good and basic glitcher like script its a bit buggy on the sides and its not done but its nice to use and look at with good animations and attack moves and more
+```
+require(7972191071).CLoad("DeBug_UserName")
+```
+# Gaming Gui
+a basic script hub with a few good really good and basic scripts and a way to send people to the endless void and crash/lag really badly
+```
+require(14822974119)("DeBug_UserName")
+```
+# Gear Hub
+a basic gear hub you cant add to it or anything it just comes with 7 gears nice and clean to use
+```
+require(15507391221)("DeBug_UserName")
+```
+# Sensation Hub Safe
+a big script hub suite with 2000+ scripts and a executor and basic admin gui + more as its a rare script hub 
+```
+require(85380043749737)("DeBug_UserName")
+```
+# Project Hub
+a basic hub that has many script hubs, map spawners, vehicle spawns, Utility scripts, gun scripts and gear spawns and a clean ui and fits with the normal roblox ui of games looking like its part of the game being one of the best scripts for stealth/clean ghost like uis
+```
+require(124840250479418)("DeBug_UserName", "Standard")
+```
+# Sensation Hub Unsafe/Normal
+the same as Sensation hub safe but it could get the game warned or something like that or break tos of ServerSide executors you pay for like Aureus SS and or ServerSide.fun and others
+```
+require(100263845596551)("DeBug_UserName", ColorSequence.new(Color3.fromRGB(71, 148, 253), Color3.fromRGB(71, 253, 160)), "Standard")
+```
