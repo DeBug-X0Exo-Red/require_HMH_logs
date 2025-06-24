@@ -89,3 +89,8 @@ the same as Sensation hub safe but it could get the game warned or something lik
 ```
 require(100263845596551)("DeBug_UserName", ColorSequence.new(Color3.fromRGB(71, 148, 253), Color3.fromRGB(71, 253, 160)), "Standard")
 ```
+# Grab Knife V4 Clean/Simple
+a simple and clean version of grab knife v4 without all the other stuff you wont use as your using grab knife for the sword and the knife most probably
+```
+require(18665717275).load("DeBug_UserName")
+```
