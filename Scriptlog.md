@@ -20,7 +20,7 @@ HD Admin Ranker/Loader
 - require(7192763922).load("DeBug_UserName")
 
 Minos Prime
-require(0x3603754d7)("DeBug_UserNamee", "minos2") 
+- require(0x3603754d7)("DeBug_UserNamee", "minos2") 
 
 y00zgui
 - require(15297073639):y00zgui("DeBug_UserName")
