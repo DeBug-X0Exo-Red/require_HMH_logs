@@ -1,11 +1,42 @@
 Shy Guy 
 - require(5972874843).load("DeBug_UserName")
 
-weapon switcher
+Weapon Switcher
 - require(6352125431).load("DeBug_UserName")
 
-special tactics
+Special Tactics
 - require(10608863478)("DeBug_UserName")
 
-the sharpest katana
+The Sharpest Katana
 - require(9012999007)("DeBug_UserName")
+
+RosySide
+- require(81263541713187)("DeBug_UserName")
+
+Noob Spawner
+- require(5193737424)("DeBug_UserName",true)
+
+HD Admin Ranker/Loader
+- require(7192763922).load("DeBug_UserName")
+
+Minos Prime
+require(0x3603754d7)("DeBug_UserNamee", "minos2") 
+
+y00zgui
+- require(15297073639):y00zgui("DeBug_UserName")
+
+TeamFatKid Gui
+password for script hub > TeamFatWasHere
+- require(0x4047FE746).C00PER("DeBug_UserName")
+
+ServerSide.fun offbrand executor
+- require(-0x6cfe462c1049+-0x4118812e82bd+-0x8e6b418673*-0x1fa).sf1("DeBug_UserName")
+
+Sensation Hub Red Version
+- require(100263845596551)("DeBug_UserName")
+
+Prison Life Map Spawner
+- require(14314506567).Load(DeBug_UserName)
+
+Clown Murder/Kidnap
+- require(5591099977)("DeBug_Victim")
