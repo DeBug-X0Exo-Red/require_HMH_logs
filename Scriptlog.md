@@ -40,3 +40,15 @@ Prison Life Map Spawner
 
 Clown Murder/Kidnap
 - require(5591099977)("DeBug_Victim")
+
+AntiSkid Map Loader
+- require(10304477576).AntiSkid()
+
+Ohio Map Loader
+- require(12015898055).ohio_place("DeBug_UserName")
+
+Sans from undertale
+- require(4952709475).load("DeBug_UserName")
+
+Big Simple Nuke
+- require(7804327506).amigodogodenot123("DeBug_UserName")
