@@ -1,7 +1,7 @@
 # c00lgui Reborn
 a working version of c00lkidds old gui but remade it is lost on death tho so you will have to reexecute it and it can be laggy at times but can be fixed by dying to remove the gui if it does start to lag your game
 ```
-:script require(14125553864):Fire("DeBug_UserName", "c00lkidd")
+require(14125553864):Fire("DeBug_UserName", "c00lkidd")
 ```
 # Blast ss
 a all-in-one software solution / software suite as it has both a serverside and clientside executor and more then 1 tab just in case with a output log, anti ban, script hidder for your executor, auto reopen when rejoining, server locker, R6 toggle, dummy spawner, respawner, hide/show button, and a script hub with 615 script as of now with the only problem being that it can be laggy when you move the gui but other then that its one of the best
