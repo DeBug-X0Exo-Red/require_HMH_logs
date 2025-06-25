@@ -47,7 +47,7 @@ AntiSkid Map Loader
 Ohio Map Loader
 - require(12015898055).ohio_place("DeBug_UserName")
 
-Sans from undertale
+Sans from undertale (may have rule breaking things like nsfw / backdoor)
 - require(4952709475).load("DeBug_UserName")
 
 Big Simple Nuke
