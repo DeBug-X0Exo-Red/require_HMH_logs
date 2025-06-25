@@ -1,5 +1,5 @@
 # c00lgui Reborn
-a working version of c00lkidds old gui but remade it is lost on death tho so you will have to reexecute it and it can be laggy at times but can be fixed by dying to remove the gui if it does start to lag your game
+a working version of c00lkidds old gui but remade it is lost on death tho so you will have to reexecute it and it can be laggy at times but can be fixed by dying to remove the gui if it does start to lag your game (may have backdoor)
 ```
 require(14125553864):Fire("DeBug_UserName", "c00lkidd")
 ```
@@ -90,7 +90,7 @@ the same as Sensation hub safe but it could get the game warned or something lik
 require(100263845596551)("DeBug_UserName", ColorSequence.new(Color3.fromRGB(71, 148, 253), Color3.fromRGB(71, 253, 160)), "Standard")
 ```
 # Grab Knife V4 Clean/Simple
-a simple and clean version of grab knife v4 without all the other stuff you wont use as your using grab knife for the sword and the knife most probably
+a simple and clean version of grab knife v4 without all the other stuff you wont use as your using grab knife for the sword and the knife most probably (may have backdoor)
 ```
 require(18665717275).load("DeBug_UserName")
 ```
